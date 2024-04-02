@@ -12,6 +12,6 @@
 **How to Run**
 
 3. Clone the project repository
-4. Run TestNG.xml file under Project root > e-commerceUIAutomationProject/TestNG.xml the script will run in the three browsers consecutive
+4. Run TestNG.xml file under Project root > e-commerceUIAutomationProject/TestNG.xml the script will run on the three browsers consecutive
 5. Observe Reports under Project root > e-commerceUIAutomationProject/test-output/reports/Spark.html in any browser
 6. (Optional) Change tag in line 16 in src/test/java/Runner/TestRunner.java to @checkout to run a specific test case
